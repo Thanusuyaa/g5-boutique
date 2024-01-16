@@ -1,0 +1,163 @@
+.body{ box-sizing: border-box;
+}
+.nav{
+   float: left;
+   width: 100%;
+   background-color:#D2534D;
+   height: 50px;
+}
+.nav-left{
+    float: left;
+    width: 60%;
+    margin: auto;
+}
+.nav-right{
+    width: 40%;
+    float: right;
+}
+.nav-right p{
+    font-size: 20px;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    margin: auto;    
+    margin-left: 230px;
+}
+.nav-left li{
+    display: inline-block;
+}
+.nav-left li a {
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+.artcile{
+    width: 100%;
+    float: left;
+}
+.pics4{
+    width: 100%;
+    float: left;
+    height: 500px;
+}
+.pics1{
+    float: left;
+    width: 360px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left:50px ;
+}
+.pics2{
+    float: left;
+    width: 390px;
+    height: 300px;
+    margin-left:50px;
+    margin-top: 50px;
+}
+.pics3{
+    float: right;
+    width: 380px;
+    height: 300px;
+    margin-right:60px;
+    margin-top: 50px;
+}
+.menu{
+    width: 100%;
+    float: left;
+}
+.menu1 p{
+    width: 30%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 360px;
+    position: absolute;
+}
+.menu2 p{
+    width: 30%;
+    float: left;
+    margin-left: 460px;
+    margin-top: 360px;
+    position: absolute;
+}
+.menu3 p{
+    width: 30%;
+    float: right;
+    margin-top: 360px;
+    position: absolute;
+    margin-left: 895px;
+}
+
+.main{
+    width: 100%;
+    float: left;
+    height: 500px;
+}
+.main h1{
+    color: black;
+    font-size: 40px;
+    margin-top: 310px;
+    text-align: center;
+    position: absolute;
+    margin-left: 520px;
+}
+.main h6{
+    color:black;
+    font-size: 20px;
+    margin-top: 370px;
+    text-align: center;
+    position: absolute;
+    margin-left: 500px;  
+}
+.main p{
+    color: black;
+    font-size: 20px;
+    margin-top: 410px;
+    text-align: center;
+    position: absolute;
+    margin-left: 630px;
+}
+.video{
+    width: 100%;
+    float: left;
+}
+.video1 {
+    width: 50%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    height: 500px;
+}
+.content p{
+    width: 50%;
+    float: right;
+    font-size: 20px;
+    margin-top: -395px;
+    text-align: justify;
+    margin-right: 60px;
+}
+.footer{
+    width: 100%;
+    float: left;
+    background-color: #D2534D;
+    margin-top: 30px;
+    height: 50px;
+}
+.footer1 {
+    width: 50%;
+    float: left;
+    margin-left: 120px;
+    font-size: 15px;
+}
+.footer2 {
+    width: 50%;
+    float: right;
+    margin-top: 10px;
+    margin-right: -440px;
+}
+.cta{
+    width: 100px;
+    float: left;
+    background-color: aliceblue;
+    margin-top: -90px;
+    margin-left: 643px;
+}
